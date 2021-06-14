@@ -8,7 +8,7 @@ Passionate in IT and in search of new knowledge and how to improve my skills.
 
 :blue_book: Studying at UNIFEI - ( Universidade Federal de Itajubá )
 
-:computer: Working at [byron.solutions](http://byronsolutions.com "byron.solutions")
+:computer: Back-end developer Intern at Incluir Tecnologia
 
 :round_pushpin: Campinas/SP --> Itajubá/MG
 
