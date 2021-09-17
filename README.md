@@ -14,4 +14,7 @@ Passionate in IT and in search of new knowledge and how to improve my skills.
 
 :mailbox: math.marqui@gmail.com
 
-
+## Tecnologias
+* PHP Slim
+* Mysql
+* Wordpress
