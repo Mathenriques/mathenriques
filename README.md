@@ -15,6 +15,9 @@ Passionate in IT and in search of new knowledge and how to improve my skills.
 :mailbox: math.marqui@gmail.com
 
 ## Tecnologias
-* PHP Slim
+* PHP 7.4 e 8.0
+* Slim Skeleton 3 e 4
 * Mysql
-* Wordpress
+* Laravel
+* Git
+* Docker
