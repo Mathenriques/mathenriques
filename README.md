@@ -3,21 +3,3 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-34495E?style=flat-square&labelColor=17202A&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henriques/)](https://www.linkedin.com/in/matheus-henriques/) [![Instagram Badge](https://img.shields.io/badge/-@matheus.henriques-34495E?style=flat-square&labelColor=17202A&logo=instagram&logoColor=white&link=https://instagram.com/math.henriques)](https://instagram.com/math.henriques) 
-
-Passionate in IT and in search of new knowledge and how to improve my skills.
-
-:blue_book: Studying at UNIFEI - ( Universidade Federal de Itajubá )
-
-:computer: Back-end developer Intern at Incluir Tecnologia
-
-:round_pushpin: Campinas/SP --> Itajubá/MG
-
-:mailbox: math.marqui@gmail.com
-
-## Tecnologias
-* PHP 7.4 e 8.0
-* Slim Skeleton 3 e 4
-* Mysql
-* Laravel
-* Git
-* Docker
